@@ -33,7 +33,7 @@ https://drive.google.com/file/d/0B76TjeOkslHlMkMxTWNsdkJzNDQ/view?usp=sharing&re
 
 -- A: Please kindly print the test gcode files with the stock PLA filament: https://drive.google.com/file/d/1y2nqfK7Dx2IxXu9M2p_PNU8A4FyewKW7/view?usp=sharing
 
-  If the print is ok, usually the cause is slicing settings. Please follow the instructions to import our slicing settings again. You can also contact bibo@ourbibo.com for help.
+  If the print is ok, usually the cause is slicing settings. Please follow the instructions to import our slicing settings again.
 
 -- Q: My print is not sticking to the bed. How do I solve this problem?
 
